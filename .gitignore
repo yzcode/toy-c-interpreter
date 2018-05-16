@@ -5,9 +5,6 @@
 .buckd
 buck-out
 
-#google
-googletest
-
 # Object files
 *.o
 *.ko
