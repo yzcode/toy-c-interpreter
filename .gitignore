@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#buck
+.buckd
+buck-out
+
 # Object files
 *.o
 *.ko
