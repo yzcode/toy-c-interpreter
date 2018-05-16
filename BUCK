@@ -11,5 +11,8 @@ cxx_binary(
   ],
   compiler_flags = [
   	'-m32',
+  ],
+  linker_flags = [
+  	'-m32',
   ]
 )
