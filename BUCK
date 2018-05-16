@@ -9,4 +9,7 @@ cxx_binary(
   ]),
   deps = [
   ],
+  compiler_flags = [
+  	'-m32',
+  ]
 )
